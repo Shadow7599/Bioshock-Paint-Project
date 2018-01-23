@@ -1,5 +1,8 @@
 # Bioshock-Paint-Project
-A Paint Project, where the theme is of the video game series Bioshock.
+
+## By: Shadman Hassan
+
+A Paint Program, where the theme is the video game series Bioshock.
 
 To run the program, just open the bioshockPlasmidsAreThePaintNew.py file in the folder. You will need to have python and the pygame
 module of the same version installed in order to run the project.
