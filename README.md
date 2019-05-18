@@ -1,4 +1,4 @@
-# Bioshock-Paint-Project
+# Bioshock-Paint
 
 ## By: Shadman Hassan
 
